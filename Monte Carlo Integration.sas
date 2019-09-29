@@ -47,7 +47,7 @@ finish MC_integration;
 
 
 n = 10000;
-title ' Question 1.3';
+title ' Question 1.1';
 q11 = MC_integration(function_x, n, 3, 8);
 print 'Area Under Curve: ' (q11);
 
@@ -116,7 +116,7 @@ finish MC_integration;
 
 
 n = 10000;
-* Question 1.3;
+* Question 1.1;
 q11 = MC_integration(function_x, n, 3, 8);
 print 'Area Under Curve: ' (q11);
 
